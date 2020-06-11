@@ -6,7 +6,7 @@ import 'firebase/auth'
 
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "AIzaSyB6YeeRLDspz-EKwz_sx9-iXEsnYhW1F-g",
+  apiKey: "INSERT API KEY",
   authDomain: "bored-fire.firebaseapp.com",
   databaseURL: "https://bored-fire.firebaseio.com",
   projectId: "bored-fire",
